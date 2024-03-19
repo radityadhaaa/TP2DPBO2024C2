@@ -7,7 +7,7 @@ Saya Raditya Adha Rahman mengerjakan TP2 dalam mata kuliah DPBO untuk keberkahan
 Pada Tugas Praktikum mengenai JAVA SWING GUI, diminta untuk menghubungkan seluruh proses CRUD dengan database mahasiswa, Menampilkan dialog atau prompt error apabila masih terdapat inputan yang kosong saat melakukan insert/update, dan Menampilkan dialog atau prompt error, apabila sudah ada NIM yang sama saat insert.
 
 ## Screenshot
-Berikut merupakan hasil screenshot : 
+Berikut merupakan hasil screenshot : <br />
 <img width="526" alt="1 - Cek Input yang Kosong" src="https://github.com/radityadhaaa/TP2DPBO2024C2/assets/133930595/c3ed7c9a-a1b2-41b0-a4cf-1e384a5b9a81"><br />
 `Pada gambar diatas merupakan tampailan prompt apabila input yang kosong.`
 <img width="511" alt="2 - Menambahkan Data" src="https://github.com/radityadhaaa/TP2DPBO2024C2/assets/133930595/4a693acd-52dd-40db-8269-01c11b06e5a0"><br />
