@@ -8,17 +8,17 @@ Pada Tugas Praktikum mengenai JAVA SWING GUI, diminta untuk menghubungkan seluru
 
 ## Screenshot
 Berikut merupakan hasil screenshot : 
-<img width="526" alt="1 - Cek Input yang Kosong" src="https://github.com/radityadhaaa/TP2DPBO2024C2/assets/133930595/c3ed7c9a-a1b2-41b0-a4cf-1e384a5b9a81">
+<img width="526" alt="1 - Cek Input yang Kosong" src="https://github.com/radityadhaaa/TP2DPBO2024C2/assets/133930595/c3ed7c9a-a1b2-41b0-a4cf-1e384a5b9a81"><br />
 `Pada gambar diatas merupakan tampailan prompt apabila input yang kosong.`
-<img width="511" alt="2 - Menambahkan Data" src="https://github.com/radityadhaaa/TP2DPBO2024C2/assets/133930595/4a693acd-52dd-40db-8269-01c11b06e5a0">
+<img width="511" alt="2 - Menambahkan Data" src="https://github.com/radityadhaaa/TP2DPBO2024C2/assets/133930595/4a693acd-52dd-40db-8269-01c11b06e5a0"><br />
 `Pada gambar diatas merupakan tampailan untuk menambahkan data.`
-<img width="518" alt="3 - Cek NIM yang Sama" src="https://github.com/radityadhaaa/TP2DPBO2024C2/assets/133930595/b0e48830-53c8-43e1-a0e5-37b56fc2b470">
+<img width="518" alt="3 - Cek NIM yang Sama" src="https://github.com/radityadhaaa/TP2DPBO2024C2/assets/133930595/b0e48830-53c8-43e1-a0e5-37b56fc2b470"><br />
 `Pada gambar diatas merupakan tampilan prompt apabila NIMnya sama.`
-<img width="502" alt="4 - Notifikasi pada saat akan Menghapus Data" src="https://github.com/radityadhaaa/TP2DPBO2024C2/assets/133930595/6bab0c27-564b-445b-9da2-91a8fec3b5a8">
+<img width="502" alt="4 - Notifikasi pada saat akan Menghapus Data" src="https://github.com/radityadhaaa/TP2DPBO2024C2/assets/133930595/6bab0c27-564b-445b-9da2-91a8fec3b5a8"><br />
 `Pada gambar diatas merupakan tampilan prompt pada saat melakukan penghapusan data.`
-<img width="505" alt="5 - Data Berhasil Di Hapus" src="https://github.com/radityadhaaa/TP2DPBO2024C2/assets/133930595/ee4988d1-7881-4958-8379-8c918cd928e4">
+<img width="505" alt="5 - Data Berhasil Di Hapus" src="https://github.com/radityadhaaa/TP2DPBO2024C2/assets/133930595/ee4988d1-7881-4958-8379-8c918cd928e4"><br />
 `Pada gambar diatas merupakan tampilan prompt pada saat berhasil melakukan penghapusan data.`
-<img width="524" alt="6 - Melakukan Pengubahan Data" src="https://github.com/radityadhaaa/TP2DPBO2024C2/assets/133930595/3d631591-7c70-493a-a52a-62f6b57ab95f">
+<img width="524" alt="6 - Melakukan Pengubahan Data" src="https://github.com/radityadhaaa/TP2DPBO2024C2/assets/133930595/3d631591-7c70-493a-a52a-62f6b57ab95f"><br />
 `Pada gambar diatas merupakan tampilan prompt pada untuk melakukan pengubahan data.`
-<img width="532" alt="7 - Data Berhasil Di Ubah" src="https://github.com/radityadhaaa/TP2DPBO2024C2/assets/133930595/029f1fd9-42ac-4445-9f64-f31b23b7ada1">
+<img width="532" alt="7 - Data Berhasil Di Ubah" src="https://github.com/radityadhaaa/TP2DPBO2024C2/assets/133930595/029f1fd9-42ac-4445-9f64-f31b23b7ada1"><br />
 `Pada gambar diatas merupakan tampilan prompt pada saat berhasil melakukan pengubahan data.`
